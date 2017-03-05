@@ -2,9 +2,6 @@ package com.galvanize;
 
 import java.util.ArrayList;
 
-/**
- * Created by June on 3/4/17.
- */
 public class Business implements Addressable {
 
     private String name;

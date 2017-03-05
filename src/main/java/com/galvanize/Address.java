@@ -1,9 +1,5 @@
 package com.galvanize;
 
-/**
- * Created by June on 3/4/17.
- */
-
 public class Address {
     private String street;
     private String city;
