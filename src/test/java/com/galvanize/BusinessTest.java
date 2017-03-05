@@ -8,6 +8,7 @@ import java.lang.reflect.*;
 import java.util.Arrays;
 import java.util.List;
 
+import static com.sun.tools.internal.ws.wsdl.parser.Util.fail;
 import static org.junit.Assert.*;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
